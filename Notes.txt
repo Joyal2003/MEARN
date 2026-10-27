@@ -1,0 +1,45 @@
+--------------------------- MEARN ---------------------------
+
+M - MongoDB
+E - Express.js
+A - Angular
+R - React
+N - Node.js
+
+MERN MEAN - ME(A)RN
+
+HTML -> CSS -> Bootstrap -> tailwind -> JavaScript -> React -> MERN (Node,js, Express.js, React, mongoDB) ->Angular -> MEAN
+
+Figma
+Git
+github
+Deploy - vercel & Netlify / Render
+
+frontend - React & Angular
+Backend - Node, Express
+Database - MongoDB
+
+
+=> css box model
+----------------
+
+=> the css box model explains how every html element is displays as a rectangular box on a webpage.
+=> Each element consist of 4 parts :
+1.content: the actuall content inside and element such as text images etc
+2.padding:space between the ontent and border 
+3.border:the line surrounding the content and padding
+4.margin:
+
+=> css tra
+
+a css transition allows an elemet to change its css properties smoothly over a specified amount of time instead of changing instantly 
+
+=>syntax:
+        selector{
+            transition : property duration delay:
+        }
+=>four important transition properties
+1. transition-property: which css property changes
+2. transition-duration: how long the changes take
+3. transition-timing-fuction : how speed changes over time
+4. transition-delay ; how 
